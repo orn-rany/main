@@ -1,0 +1,51 @@
+body {
+    background: paleturquoise;
+}
+.name {
+    position: relative;
+    width: 300px;
+    margin-top: 100px;
+    margin: auto;
+}
+.name input {
+    width: 90%;
+    padding: 10px 20px ;
+    border-radius: 15px;
+    border: 2px solid green;
+}
+.person {
+    margin-left: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    align-content: center;
+}
+.password {
+    position: relative;
+    width: 300px;
+    margin: auto;
+}
+.password input {
+    width: 90%;
+    padding: 10px 20px;
+    border-radius: 15px;
+    border: 2px solid green;
+}
+.lock {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    align-content: center;
+}
+.eyes {
+    
+    position: absolute;
+    
+    margin-left: 10px;
+    top: 0;
+    left: 0;
+    height: 100%;
+    align-content: center;
+}

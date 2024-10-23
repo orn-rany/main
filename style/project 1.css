@@ -1,0 +1,56 @@
+body {
+    background: pink;
+}
+.enter {
+    position: relative;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+}
+.enter input {
+    width: 98%;
+    padding:5px 10px ;
+    border-radius: 15px;
+    border: 3px solid blue;
+}
+.enter span {
+    position: absolute;
+    top: 0;
+    right:93% ;
+    height: 100%;
+    align-content: center;
+}
+.login {
+    position: relative;
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    /* display: flex; */
+}
+.login input {
+    width: 98%;
+    padding: 5px 10px;
+    border-radius: 15px;
+    border: 3px solid blue;
+}
+.eyes {
+    position: absolute;
+    width:25px;  
+    height:20px ;
+    top: 0%;
+    right: 0;
+    margin-top: 5px;
+
+}
+.lock {
+    margin: 5px 0px 0px 5px ;
+    /* margin-top: 5px;
+    margin-left: 5px; */
+    position: absolute;
+    width:25px;  
+    height:20px ;
+    top: 0%;
+    left: 0.7%;
+    align-content:center;
+
+}
